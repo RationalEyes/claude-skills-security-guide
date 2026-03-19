@@ -228,12 +228,13 @@ python3 skills/security-monitor/scripts/scan_skills.py --paths examples/
 
 ## Documentation
 
-| Document | Description |
-|:---|:---|
-| 📖 [`docs/technical-manual.md`](docs/technical-manual.md) | Complete technical manual — architecture deep dive, all 12 vectors with code walkthroughs, 5-layer defense architecture, regulatory context, 38 references (~17,000 words) |
-| 🗂️ [`docs/threat-taxonomy.md`](docs/threat-taxonomy.md) | Structured taxonomy with MITRE ATLAS and OWASP cross-reference tables |
-| 📊 [`docs/attack-path-diagrams.md`](docs/attack-path-diagrams.md) | 7 Mermaid diagrams: skill loading flow, attack paths, defense layers, multi-agent propagation |
-| 📋 [`docs/executive-summary.md`](docs/executive-summary.md) | Non-technical summary for leadership and governance audiences |
+| Document | Description | PDF |
+|:---|:---|:---:|
+| 📖 [`docs/technical-manual.md`](docs/technical-manual.md) | Complete technical manual — architecture deep dive, all 12 vectors with code walkthroughs, 5-layer defense architecture, regulatory context, 38 references (~17,000 words) | [Download PDF](docs/technical-manual.pdf) |
+| 🗂️ [`docs/threat-taxonomy.md`](docs/threat-taxonomy.md) | Structured taxonomy with MITRE ATLAS and OWASP cross-reference tables | [Download PDF](docs/threat-taxonomy.pdf) |
+| 📊 [`docs/attack-path-diagrams.md`](docs/attack-path-diagrams.md) | 7 Mermaid diagrams: skill loading flow, attack paths, defense layers, multi-agent propagation | [Download PDF](docs/attack-path-diagrams.pdf) |
+| 📋 [`docs/executive-summary.md`](docs/executive-summary.md) | Non-technical summary for leadership and governance audiences | [Download PDF](docs/executive-summary.pdf) |
+| 💼 LinkedIn Article | Thought leadership article on Claude Skills security risks | [Download PDF](docs/linkedin-article.pdf) |
 
 ---
 
