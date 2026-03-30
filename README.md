@@ -21,6 +21,13 @@
 
 <br/>
 
+> [!NOTE]
+> **This project has evolved into [Claude Security Atlas](https://github.com/RationalEyes/claude-security-atlas)** — a modular security guide covering multiple Claude attack surfaces. The Skills Injection content from this repo is included as Module 1, alongside new modules for web content injection, and more planned. Development continues in the new repo.
+>
+> **[Go to Claude Security Atlas &rarr;](https://github.com/RationalEyes/claude-security-atlas)**
+
+<br/>
+
 > [!CAUTION]
 > **Claude Skills combine the trust level of system prompts with the accessibility of user-uploaded files.** A SKILL.md placed in `~/.claude/skills/` receives the same authority as Anthropic's own system prompt — with zero security review. This is the architectural equivalent of giving every npm package kernel-level permissions.
 
